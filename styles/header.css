@@ -1,0 +1,16 @@
+.img-movimento{
+    width: 600px;
+    border: 50px groove palevioletred;
+}
+
+.gif-title{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.container{
+    text-align: center;
+    border: 49px solid rgb(241, 12, 211);
+}
